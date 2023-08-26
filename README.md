@@ -42,7 +42,7 @@ A virtual environment is a crucial tool for managing and isolating dependencies 
 
 It allows developers to build a distinct environment with its own set of installed packages and Python interpreters, ensuring that the project's dependencies are consistent and do not conflict with other projects.
 
-Now you can navigate to a location where you want to create your Django project and create a virtual environment. Your virtual environment should have a name of your choice. In this case, we’re going to call it mysite. 
+Now you can navigate to a location where you want to create your Django project and create a virtual environment. Your virtual environment should have a name of your choice. In this case, we’re going to call it **mysite**. 
 
 #### On Unix/MacOS:
 
